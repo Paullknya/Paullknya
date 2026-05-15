@@ -13,7 +13,7 @@ Currently crafting **shipOS** – a 32‑bit x86 OS written in C and NASM (prote
 [![GitHub followers](https://img.shields.io/github/followers/Paullknya?style=social)](https://github.com/Paullknya)
 [![Profile views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPaullknya&label=Profile%20views&countColor=%23263759)]
 
-═══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
 
 **Interests:** OS development, systems programming, retro computing, compilers, and learning Rust.  
 
