@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### I'm a Paullknya. I'm creator of my OS AXonOS. 
+### I'm a Paullknya. I'm creator of my OS ─ AXonOS. 
 
 
 I build low‑level software and operating systems from scratch.  
