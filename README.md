@@ -2,8 +2,7 @@
 
 
 ### I'm a Paull Knya. I'm creator of my OS shipOS. 
->
-> 
+
 
 I build low‑level software and operating systems from scratch.  
 Currently crafting **shipOS** – a 32‑bit x86 OS written in C and NASM (protected mode, syscalls, shell, and soon multitasking).  
