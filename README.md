@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 
-### I'm a Paull Knya. I'm creator of my OS AXonOS. 
+### I'm a Paullknya. I'm creator of my OS AXonOS. 
 
 
 I build low‑level software and operating systems from scratch.  
 Currently crafting **AXonOS** – a 32‑bit x86 OS written in C and NASM (protected mode, syscalls, shell, and soon multitasking).  
 
-#  Paul Knya-z / low‑level developer
+#  Paullknya / low‑level developer
 
 [![GitHub followers](https://img.shields.io/github/followers/Paullknya?style=social)](https://github.com/Paullknya)
 [![Profile views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPaullknya&label=Profile%20views&countColor=%23263759)]
