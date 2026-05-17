@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+AxonOS;32-bit+OS+from+scratch;Low-level+developer;Future+Rustacean)](https://git.io/typing-svg)
 
-### I'm a Paullknya. I'm creator of my OS ─ AXonOS. 
+#  Paullknya / low‑level developer
+
+### I'm Paullknya. I'm creator of my OS ─ AXonOS. 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+AxonOS;32-bit+OS+from+scratch;Low-level+developer;Future+Rustacean)](https://git.io/typing-svg)
 
 
 I build low‑level software and operating systems from scratch.  
 Currently crafting **AXonOS** – a 32‑bit x86 OS written in C and NASM (protected mode, syscalls, shell, and soon multitasking).  
-
-#  Paullknya / low‑level developer
 
 [![GitHub followers](https://img.shields.io/github/followers/Paullknya?style=social)](https://github.com/Paullknya)
 [![Profile views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPaullknya&label=Profile%20views&countColor=%23263759)]
@@ -25,7 +26,7 @@ Currently crafting **AXonOS** – a 32‑bit x86 OS written in C and NASM (prote
 **Tech stack:** C, Assembly, Rust (learning), Git, QEMU.
 
 
-Have any questions? - [![Disscussions AXonOS]([https://img.shields.io/github/followers/Paullknya?style=social)](https://github.com/Paullknya](https://github.com/Paullknya/AXonOS-kernel/discussions))
+Have any questions? - [![Discussions AXonOS]([https://img.shields.io/github/followers/Paullknya?style=social)](https://github.com/Paullknya](https://github.com/Paullknya/AXonOS-kernel/discussions))
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
