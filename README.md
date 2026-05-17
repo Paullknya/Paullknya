@@ -18,7 +18,7 @@ Currently crafting **AXonOS** – a 32‑bit x86 OS written in C and NASM (prote
 **Interests:** OS development, systems programming, retro computing, compilers, and learning Rust.  
 
 **Projects you'll find here:**
-- **AXonOS** – hobby operating system with a working kernel, command line, and `sudo reboot` - [github.com/Paullknya/AxonOS](https://github.com/Paullknya/AxonOS) release - [![Latest Release](https://img.shields.io/github/v/release/Paullknya/AXonOS-kernel)](https://github.com/Paullknya/AXonOS-kernel/releases/latest)
+- **AXonOS** – hobby operating system with a working kernel, 32-bit kernel with rings 0/3, command line, and `sudo reboot` - [github.com/Paullknya/AxonOS](https://github.com/Paullknya/AxonOS) release - [![Latest Release](https://img.shields.io/github/v/release/Paullknya/AXonOS-kernel)](https://github.com/Paullknya/AXonOS-kernel/releases/latest)
 - **BeethovenQuantumMachine** – quantum computer emulator (8 qubits)
 - **Kanzler** – T9‑like prediction algorithm
 
