@@ -26,7 +26,9 @@ Currently crafting **AXonOS** – a 32‑bit x86 OS written in C and NASM (prote
 **Tech stack:** C, Assembly, Rust (learning), Git, QEMU.
 
 
-Have any questions? - [![Discussions AXonOS]([https://img.shields.io/github/followers/Paullknya?style=social)](https://github.com/Paullknya](https://github.com/Paullknya/AXonOS-kernel/discussions))
+- Have any questions? - [![Discussions AXonOS]([https://img.shields.io/github/followers/Paullknya?style=social)](https://github.com/Paullknya](https://github.com/Paullknya/AXonOS-kernel/discussions))
+
+- issues -  [![issues](https://github.com/Paullknya/AXonOS-kernel/issues))
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
