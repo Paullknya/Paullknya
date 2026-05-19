@@ -35,7 +35,7 @@ Currently crafting **AXonOS** – a 32‑bit x86 OS written in C and NASM (prote
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
-════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════
 <!--
 **Paullknya/Paullknya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
