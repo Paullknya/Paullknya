@@ -1,52 +1,42 @@
-## Hi there 👋
+Hi there 👋
 
+## Paullknya / low‑level developer
 
-#  Paullknya / low‑level developer
+I'm Paullknya, the creator of **Paull‑kernel** — a 32‑bit x86 OS from scratch.
 
-### I'm Paullknya. I'm creator of my OS ─ Paull-kernel. 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+AxonOS;32-bit+OS+from+scratch;Low-level+developer;Future+Rustacean)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=0D1117&width=500&lines=32-bit+x86+kernel+from+scratch;Protected+mode+%2B+syscalls;Rings+0%2F3+%2B+command+line;FAT32+and+multitasking+next)](https://git.io/typing-svg)
 
 I build low‑level software and operating systems from scratch.  
-Currently crafting **Paull-OS** – a 32‑bit x86 OS written in C and NASM (protected mode, syscalls, shell, and soon multitasking).  
+Currently crafting **Paull‑kernel** – a 32‑bit x86 OS written in C and NASM (protected mode, syscalls, shell, and soon multitasking).
 
 [![GitHub followers](https://img.shields.io/github/followers/Paullknya?style=social)](https://github.com/Paullknya)
-[![Profile views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPaullknya&label=Profile%20views&countColor=%23263759)]
+[![Profile views](https://komarev.com/ghpvc/?username=Paullknya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Paullknya)
 
-═══════════════════════════════════════════════════════════
+---
 
-**Interests:** OS development, systems programming, retro computing, compilers, and learning Rust.  
+### Interests
+OS development, systems programming, retro computing, compilers, and learning Rust.
 
-**Projects you'll find here:**
-- **Paull** – hobby operating system with a working kernel, 32-bit kernel with rings 0/3, command line, and `sudo reboot` - [github.com/Paullknya/AxonOS](https://github.com/Paullknya/AxonOS) release - [![Latest Release](https://img.shields.io/github/v/release/Paullknya/AXonOS-kernel)](https://github.com/Paullknya/AXonOS-kernel/releases/latest)
+### Projects you'll find here
+
+- **Paull‑kernel** – hobby operating system with a working kernel, 32‑bit kernel with rings 0/3, command line, and `sudo reboot`  
+  👉 [github.com/Paullknya/Paull-kernel](https://github.com/Paullknya/Paull-kernel) – [Latest Release](https://github.com/Paullknya/Paull-kernel/releases/latest)
+
 - **BeethovenQuantumMachine** – quantum computer emulator (8 qubits)
+
 - **Kanzler** – T9‑like prediction algorithm
 
-**Tech stack:** C, Assembly, Rust (learning), Git, QEMU.
+### Tech stack
+C, Assembly, Rust (learning), Git, QEMU.
 
+### Have any questions?
+- 💬 [Discussions](https://github.com/Paullknya/Paull-kernel/discussions)
+- 🐞 [Issues](https://github.com/Paullknya/Paull-kernel/issues)
 
-- Have any questions? - [![Discussions AXonOS]([https://img.shields.io/github/followers/Paullknya?style=social)](https://github.com/Paullknya](https://github.com/Paullknya/AXonOS-kernel/discussions))
-
-- issues -  [![issues](https://github.com/Paullknya/AXonOS-kernel/issues))
+---
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
-══════════════════════════════════════════════════════
-<!--
-**Paullknya/Paullknya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
