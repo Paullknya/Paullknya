@@ -3,13 +3,13 @@
 
 #  Paullknya / low‑level developer
 
-### I'm Paullknya. I'm creator of my OS ─ AXonOS. 
+### I'm Paullknya. I'm creator of my OS ─ Paull-kernel. 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+AxonOS;32-bit+OS+from+scratch;Low-level+developer;Future+Rustacean)](https://git.io/typing-svg)
 
 
 I build low‑level software and operating systems from scratch.  
-Currently crafting **AXonOS** – a 32‑bit x86 OS written in C and NASM (protected mode, syscalls, shell, and soon multitasking).  
+Currently crafting **Paull-OS** – a 32‑bit x86 OS written in C and NASM (protected mode, syscalls, shell, and soon multitasking).  
 
 [![GitHub followers](https://img.shields.io/github/followers/Paullknya?style=social)](https://github.com/Paullknya)
 [![Profile views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPaullknya&label=Profile%20views&countColor=%23263759)]
@@ -19,7 +19,7 @@ Currently crafting **AXonOS** – a 32‑bit x86 OS written in C and NASM (prote
 **Interests:** OS development, systems programming, retro computing, compilers, and learning Rust.  
 
 **Projects you'll find here:**
-- **AXonOS** – hobby operating system with a working kernel, 32-bit kernel with rings 0/3, command line, and `sudo reboot` - [github.com/Paullknya/AxonOS](https://github.com/Paullknya/AxonOS) release - [![Latest Release](https://img.shields.io/github/v/release/Paullknya/AXonOS-kernel)](https://github.com/Paullknya/AXonOS-kernel/releases/latest)
+- **Paull** – hobby operating system with a working kernel, 32-bit kernel with rings 0/3, command line, and `sudo reboot` - [github.com/Paullknya/AxonOS](https://github.com/Paullknya/AxonOS) release - [![Latest Release](https://img.shields.io/github/v/release/Paullknya/AXonOS-kernel)](https://github.com/Paullknya/AXonOS-kernel/releases/latest)
 - **BeethovenQuantumMachine** – quantum computer emulator (8 qubits)
 - **Kanzler** – T9‑like prediction algorithm
 
