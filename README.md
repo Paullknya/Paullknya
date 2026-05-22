@@ -32,7 +32,7 @@ C, Assembly, Rust (learning), Git, QEMU.
 ### Have any questions?
 - 💬 [Discussions](https://github.com/Paullknya/Paull-kernel/discussions)
 - 🐞 [Issues](https://github.com/Paullknya/Paull-kernel/issues)
-
+- 🔧 [development forum](https://paullknya.github.io/)
 ---
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
