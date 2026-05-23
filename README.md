@@ -2,7 +2,7 @@ Hi there 👋
 
 ## Paullknya / low‑level developer
 
-I'm Paullknya, the creator of **Paull‑kernel** — a 32‑bit x86 OS from scratch.
+I'm Paullknya, the creator of **Snorkel-OS** — a 32‑bit x86 OS from scratch.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=0D1117&width=500&lines=32-bit+x86+kernel+from+scratch;Protected+mode+%2B+syscalls;Rings+0%2F3+%2B+command+line;FAT32+and+multitasking+next)](https://git.io/typing-svg)
 
@@ -19,8 +19,8 @@ OS development, systems programming, retro computing, compilers, and learning Ru
 
 ### Projects you'll find here
 
-- **Paull‑kernel** – hobby operating system with a working kernel, 32‑bit kernel with rings 0/3, command line, and `sudo reboot`  
-  👉 [github.com/Paullknya/Paull-kernel](https://github.com/Paullknya/Paull-kernel) – [Latest Release](https://github.com/Paullknya/Paull-kernel/releases/latest)
+- **Snorkel-OS** – hobby operating system with a working kernel, 32‑bit kernel with rings 0/3, command line, and `sudo reboot`  
+  👉 [github.com/Paullknya/Paull-kernel](https://github.com/Paullknya/Paull-kernel) – [Latest Release]((https://github.com/Paullknya/Paull-kernel/releases/tag/3.2))
 
 - **BeethovenQuantumMachine** – quantum computer emulator (8 qubits)
 
